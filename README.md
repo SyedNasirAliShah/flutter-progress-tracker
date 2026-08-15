@@ -1,6 +1,5 @@
 # Flutter & Dart Progress Tracker - Batch 48
 
-## 🎯 Course Information
 * **Program:** Flutter Urraan Cohort 48th
 * **Status:** Up to Date
 
