@@ -31,7 +31,7 @@
 <br>
 
 - ✔ SQFlite Database Implementation Part 1  
-  **SQFlite Database Queries & Part 2 Execution — Task Submitted**
+  **SQFlite Database Queries & Part 2 Execution - Task Submitted**
 
 - ✔ APIs Integration, Request Methods (GET/POST)  
-  **Prayer API Project using `FutureBuilder` — Task Submitted**
+  **Prayer API Project using `FutureBuilder` - Task Submitted**
