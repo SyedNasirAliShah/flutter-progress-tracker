@@ -23,10 +23,12 @@
 - ✔ User Inputs & Handling TextFields
 - ✔ Navigation, Routing & Screen Transitions
 - ✔ ListView, GridView & Dynamic List Renderings
-- ✔ Local Data Concepts & Architecture 
+  
+  **All of the above topics are Practiced and covered in my** [GitHub Repository](https://github.com/SyedNasirAliShah/flutter-projects).
+
 - ✔ SQFlite Database Implementation Part 1
-- ✔ SQFlite Database Queries & Part 2 Execution
+- ✔ SQFlite Database Queries & Part 2 Execution  **Task Submitted**
 - ✔ APIs Integration, Request Methods (GET/POST)
-- ✔ Prayer API project using **`FutureBuilder`**
+- ✔ Prayer API project using **`FutureBuilder`**  **Task Submitted**
 
 ---
